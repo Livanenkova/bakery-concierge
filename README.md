@@ -3,7 +3,9 @@
 Take-home for the **AI Solutions Builder** role (Smartcat).
 A live, always-on assistant that turns free-text cake requests into priced, approved, booked orders — with a human in the loop.
 
-**Walkthrough video:** _[https://www.loom.com/share/05b71b1956204d998d72d5a26c85cfce]_ · **Try the bot:** _[https://t.me/bakery_dasha_bot]_
+**Walkthrough video:** _[https://www.loom.com/share/05b71b1956204d998d72d5a26c85cfce]_ · 
+**Walkthrough notion:** _[https://app.notion.com/p/Put-a-Tiny-Business-on-Autopilot-Bakery-Concierge-3909e6b9bcbf80459f3ce930011310bb]_
+**Try the bot:** _[https://t.me/bakery_dasha_bot]_
 
 ---
 
